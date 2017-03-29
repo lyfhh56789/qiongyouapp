@@ -1,0 +1,27 @@
+{
+  "name": "qiongyouapp",
+  "version": "1.0.0",
+  "description": "穷游网app仿写",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyfhh56789/qiongyouapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyfhh56789/qiongyouapp/issues"
+  },
+  "homepage": "https://github.com/lyfhh56789/qiongyouapp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-ui-router": "^0.4.2"
+  }
+}
